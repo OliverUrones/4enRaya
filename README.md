@@ -6,4 +6,4 @@ de la Escuela Politécnica Superior de Zamora perteneciente a la Universidad de 
 
 La aplicación es la implementación del juego 4 en Raya (Connect Four) en Haskell.
 
-Para la ejecución, bastará con el ejecutar el script a través del intérprete de Haskell GHCi o puedes compilar el código.
+Para la ejecución, bastará con el ejecutar el script "cuatro_en_raya.hs" a través del intérprete de Haskell GHCi o puedes compilar el código.
